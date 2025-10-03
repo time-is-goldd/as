@@ -301,10 +301,13 @@ nav.centered-nav li a {
   .tel {
     font-size: 1.3rem; /* 약 20.8px */
   }
-  
+  #kakaotalk {
+    width:15%;
+  }
   /* 헤더 로고 크기 조정 */
   header img {
       width: 80%; /* 모바일에서 로고 크기 키우기 */
       max-width: 200px; /* 너무 커지지 않도록 최대 너비 설정 */
   }
 }
+
